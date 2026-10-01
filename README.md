@@ -1,3 +1,9 @@
-# WDDM 126 – Git Fundamentals Lab
+# WDDM 126 – Git Fundamentals Project
 
-This repository is used to practice basic Git workflows.
+## Project Purpose
+This project demonstrates basic Git and GitHub workflows, including commits, pushes, pulls, and best practices.
+
+## Tools Used
+- Visual Studio Code
+- Git
+- GitHub
